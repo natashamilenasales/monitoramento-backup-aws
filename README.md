@@ -1,5 +1,3 @@
-# monitoramento-backup-aws
-
 # Monitoramento de Backups no S3 com AWS Lambda
 
 Seguindo com meus estudos em AWS, criei este projeto para monitorar backups em um bucket S3.
